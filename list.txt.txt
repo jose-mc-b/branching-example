@@ -15,7 +15,10 @@ Mi lista de artículos por comprar (Septiembre)
 // Papelería
 
 Lapiz
-Borrador ( Proveedora escolar)
+
+Borrador [ proveedor: Proveedora Escolar  ] [ Marca => Acme]
+
+
 
 
 Contabilidad
