@@ -4,3 +4,5 @@ Mi lista de artículos por comprar
 
 * Shampoo
 * Jabón
+
+* Pan
