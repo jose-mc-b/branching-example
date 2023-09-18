@@ -7,4 +7,6 @@ Mi lista de artículos por comprar (Septiembre)
 * Shampoo
 * Jabón
 
+-sopa
+
 * Pan blanco y Pan integral
