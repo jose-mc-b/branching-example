@@ -1,7 +1,7 @@
 
 Mi lista de artículos por comprar (Septiembre)
 
-(
+
 * Chocolate
 
 * Shampoo
@@ -10,3 +10,9 @@ Mi lista de artículos por comprar (Septiembre)
 -sopa
 
 * Pan blanco y Pan integral
+
+
+// Papelería
+
+Lapiz
+Borrador
