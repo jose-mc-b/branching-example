@@ -15,7 +15,7 @@ Mi lista de artículos por comprar (Septiembre)
 // Papelería
 
 Lapiz
-Borrador
+Borrador (Marca acme)
 
 
 Contabilidad
